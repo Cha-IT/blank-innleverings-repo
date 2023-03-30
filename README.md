@@ -1,2 +1,3 @@
-# blank-innleverings-repo
-Repo for innlevering av oppgaver
+# Dette er et repo for å innlevere oppgaver
+
+Last opp din oppgavebesvarelse her
